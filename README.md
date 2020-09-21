@@ -4,9 +4,9 @@ Welcome to my project playground.
 
 I am an entrepreneur, engineer, and founder focused on bringing rad SaaS startups to market. At heart, I am a builder and tinkerer, and a passionate believer in product and team as the core pillars of a successful venture. I have been an advisor to more than a dozen organizations and acted in a consulting capacity with dozens of startups and technology companies across the consumer, healthcare, human insights, productivity, and education markets.
 
-I co-founded and lead product and technology at [Our Wave](https://www.ourwave.org) & [Liven](https://liven.io).
+I co-founded and lead product and technology at [Our Wave](https://www.ourwave.org).
 
-I’m currently tinkering on a new venture in the travel & experiences space. Check out [this survey](https://forms.gle/vghbfF11gWdg1V4EA) if you want to lend us a hand ✈️
+I’m currently heads down on Seesaw, a new venture in the travel & experiences space. Check out [this survey](https://forms.gle/vghbfF11gWdg1V4EA) if you want to lend us a hand ✈️
 
 ### How to get in touch 📫
 
