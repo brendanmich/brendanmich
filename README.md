@@ -6,7 +6,7 @@ I am an entrepreneur, engineer, and founder focused on bringing rad SaaS startup
 
 I co-founded and lead product and technology at [Our Wave](https://www.ourwave.org).
 
-I’m currently heads down on Seesaw, a new venture in the travel & experiences space. Check out [this survey](https://forms.gle/vghbfF11gWdg1V4EA) if you want to lend us a hand ✈️
+I'm currently heads down on [Seesaw](https://www.seesawtravel.com), a new venture making travel planning fun & social. 🎉 Create, remix, and discover your next adventure on Seesaw. [Join our waitlist](https://www.seesawtravel.com/waitlist) for early access!
 
 ### How to get in touch 📫
 
